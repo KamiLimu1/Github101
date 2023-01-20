@@ -1,2 +1,2 @@
 # Github101
-Repository to demo  Git and Github features
+This text was typed on VSC on Jan 20th @ 2007h. Check on Chrome. 
